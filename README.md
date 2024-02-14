@@ -7,13 +7,13 @@
 - 🌱 Goals 
 - 👯 Discipline 
 
-- 💬 Rise and Grind 
-
+- 💬 Rise and Grind
+- 
+I have the ability to learn fast and always
+put in extra time and effort when required, I am fond to show
+my ability to contribute efficiently in a reasonably short space
+of time.
 
 - ⚡ I possess the ability to contribute with the most up-to-date
 techniques and approaches: ...
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://wallpapers.com/1920-x-1080-hd">
- <source media="(prefers-color-scheme: light)" srcset="https://www.wallpaperflare.com/pc-hd-1080p-nature-1920x1080-wallpaper-uvwjo">
- <img alt="Peace" src="https://www.pexels.com/photo/close-up-photography-of-bulb-on-water-1213447/">
-</picture>
+	![alt text](Ubuntu-Wallpaper-7.jpg)
