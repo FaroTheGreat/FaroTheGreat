@@ -5,10 +5,9 @@
 
 - 🔭 God 
 - 🌱 Goals 
-- 👯 Discipline 
-
+- 👯 Discipline
 - 💬 Rise and Grind
-- 
+
 I have the ability to learn fast and always
 put in extra time and effort when required, I am fond to show
 my ability to contribute efficiently in a reasonably short space
